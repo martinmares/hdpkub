@@ -12,7 +12,7 @@ must be placed at accessible from hub.docker.com git repository.
 
 ## 1. Create Docker Automated Build.
 #### 1.1 Register at hub.docker.com and link your account to your git repository while creating Automated Build
-Register at hub.docker.com and link account to github, ![Link Account to your github](/imgs/link_account.png) Create Automated Build, setting git repo [smaryn/hdpkub](https://github.com/smaryn/hdpkub.git) as a "Source Repository" ![Create Automated Build](/imgs/create_automated_build.png)
+Register at hub.docker.com and link account to github, ![Link Account to your github](/imgs/link_account.png) Create Automated Build, setting git repo [smaryn/hdpkub](https://github.com/martinmares/hdpkub.git) as a "Source Repository" ![Create Automated Build](/imgs/create_automated_build.png)
 
 #### 1.2 Go to the "Build Settings" tab and click "Trigger" button to run docker image building.
 ![Trigger](/imgs/trigger.png)
